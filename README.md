@@ -1,2 +1,2 @@
 # Turing-Compiler
-Compiler for the Turing programming language
+Compiler written in C for the Turing programming language
